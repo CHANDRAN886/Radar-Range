@@ -47,4 +47,4 @@ Table Calculation
 
 Result:
 
-Thus, the maximum range of a radar system using the Radar Range Equation is verified through a Python program.
+Thus, the maximum range of a radar system using the Radar Range Equation is verified through a Scilab program.
